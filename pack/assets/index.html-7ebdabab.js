@@ -1,4 +1,0 @@
-const data = JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"","lang":"zh-CN","frontmatter":{"home":true,"modules":["MyBanner","Blog","MdContent","TypeText","Footer"],"banner":{"heroText":"八桂世界的歌姬","heroImage":"/images/avatar.png","bgImage":"/images/HomeBg-light.png","bgImageDark":"/images/HomeBg-dark.png","tagline":"网站开发中"},"head":[["link",{"rel":"stylesheet","href":"/blinker.css"}]],"permalink":"/"},"headers":[{"level":2,"title":"Hello world.","slug":"hello-world","link":"#hello-world","children":[]}],"git":{"createdTime":1694273194000,"updatedTime":1694691151000,"contributors":[{"name":"xyy25","email":"841745697@qq.com","commits":5},{"name":"触虐de羊明","email":"841745697@qq.com","commits":5}]},"filePathRelative":"home.md","readingTime":{"minutes":0.17,"words":51}}');
-export {
-  data
-};
