@@ -1,0 +1,4 @@
+const data = JSON.parse('{"key":"v-1f71f6b0","path":"/albums/test_album_2/","title":"测试相册2","lang":"zh-CN","frontmatter":{"id":"test_album_2","title":"测试相册2","description":"这是对测试相册2的描述","layout":"Album","cover":"MY55-4.png"},"headers":[],"git":{"createdTime":1696932959000,"updatedTime":1696932959000,"contributors":[{"name":"xyy25","email":"841745697@qq.com","commits":1}]},"filePathRelative":"albums/test_album_2/README.md","readingTime":{"minutes":0.08,"words":25},"id":"test_album_2"}');
+export {
+  data
+};
