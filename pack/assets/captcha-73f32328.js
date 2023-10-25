@@ -1,1 +1,0 @@
-import{A as t}from"./app-6e2c727f.js";import"vue";import"katex";import"vue-router";import"@vicons/carbon";t.prototype.getCaptcha=function(){return this.req.get("/captcha")};t.prototype.validateCaptcha=function(p,a,r=!1){return this.req.post("/captcha",{captcha:{key:p,dots:a,remove:r}})};
