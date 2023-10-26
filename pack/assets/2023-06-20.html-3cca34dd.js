@@ -1,0 +1,1 @@
+import{openBlock as e,createElementBlock as t,createElementVNode as o}from"vue";import{_}from"./app-41f66dc0.js";import"katex";import"@vicons/carbon";const r={},c=o("p",null,"今天在空间日志里更新了一些之前没写到日志里的有关OC世界观的内容。大家有兴趣可以前往2月28日和3月4日查看。",-1),n=[c];function l(m,s){return e(),t("div",null,n)}const d=_(r,[["render",l],["__file","2023-06-20.html.vue"]]);export{d as default};

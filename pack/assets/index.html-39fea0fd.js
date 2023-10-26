@@ -1,1 +1,0 @@
-import{openBlock as e,createElementBlock as t,createElementVNode as o}from"vue";import{_ as n}from"./app-196c6b8c.js";import"katex";import"vue-router";import"@vicons/carbon";const r={},_=o("p",null,"这里是测试相册1",-1),c=[_];function i(l,m){return e(),t("div",null,c)}const u=n(r,[["render",i],["__file","index.html.vue"]]);export{u as default};
