@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-9c911d08","path":"/tags/jianlai/7/","title":"","lang":"zh-CN","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null,"readingTime":{"minutes":0,"words":0}}');export{t as data};

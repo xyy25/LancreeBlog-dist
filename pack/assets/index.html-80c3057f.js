@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-79716bf8","path":"/tags/baguishijie/5/","title":"","lang":"zh-CN","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null,"readingTime":{"minutes":0,"words":0}}');export{e as data};
