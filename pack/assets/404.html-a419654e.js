@@ -1,0 +1,1 @@
+import{openBlock as e,createElementBlock as t}from"vue";import{_ as r}from"./app-21b6d15e.js";import"katex";import"@vicons/carbon";const o={};function _(c,m){return e(),t("div")}const p=r(o,[["render",_],["__file","404.html.vue"]]);export{p as default};
