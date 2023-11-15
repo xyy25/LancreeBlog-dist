@@ -1,1 +1,0 @@
-import{openBlock as t,createElementBlock as n,createElementVNode as e}from"vue";import{_ as o}from"./app-cd170f7f.js";import"katex";import"@vicons/carbon";const r={},c=e("div",{style:{"text-align":"center"}},[e("p",null,"这里是说说页面（开发中），大家可以来此畅所欲言！！")],-1),_=[c];function i(l,s){return t(),n("div",null,_)}const p=o(r,[["render",i],["__file","index.html.vue"]]);export{p as default};

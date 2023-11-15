@@ -1,1 +1,0 @@
-import{openBlock as e,createElementBlock as t,createElementVNode as o}from"vue";import{_ as n}from"./app-cd170f7f.js";import"katex";import"@vicons/carbon";const r={},_=o("p",null,"这里是测试相册1",-1),c=[_];function i(l,m){return e(),t("div",null,c)}const a=n(r,[["render",i],["__file","index.html.vue"]]);export{a as default};
