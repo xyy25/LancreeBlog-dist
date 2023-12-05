@@ -1,0 +1,1 @@
+import{openBlock as t,createElementBlock as o,createElementVNode as e}from"vue";import{_}from"./app-RHw7_J7N.js";import"katex";const n={},c=e("p",null,"俚人：日常番、治愈番",-1),l=e("p",null,"骆人：悬疑番、宫斗番、校园番",-1),r=e("p",null,"俍人：战斗番、热血番",-1),s=[c,l,r];function i(m,d){return t(),o("div",null,s)}const a=_(n,[["render",i],["__file","2023-06-22.html.vue"]]);export{a as default};
