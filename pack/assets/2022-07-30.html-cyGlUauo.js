@@ -1,1 +1,0 @@
-import{openBlock as e,createElementBlock as t,createElementVNode as o}from"vue";import{_}from"./app-LJQ-LIaf.js";import"katex";const c={},n=o("p",null,"要是他们把这些制作表现大IP幻想的前沿多媒体表现技术，从描绘樱花和服夏日祭转移到我们民族文化多样性上，哪个不比民歌节美食节强一万倍？",-1),r=[n];function l(s,m){return e(),t("div",null,r)}const d=_(c,[["render",l],["__file","2022-07-30.html.vue"]]);export{d as default};
