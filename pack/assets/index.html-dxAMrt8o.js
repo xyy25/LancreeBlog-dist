@@ -1,1 +1,0 @@
-import{openBlock as t,createElementBlock as n,createElementVNode as e}from"vue";import{_ as o}from"./app-4_BUsTtL.js";import"katex";const c={},r=e("div",{style:{"text-align":"center"}},[e("p",null,"这里是说说页面（开发中），大家可以来此畅所欲言！！")],-1),_=[r];function l(i,s){return t(),n("div",null,_)}const f=o(c,[["render",l],["__file","index.html.vue"]]);export{f as default};
