@@ -1,1 +1,0 @@
-import{openBlock as t,createElementBlock as o,createElementVNode as e}from"vue";import{_}from"./app-cXT_J_4d.js";import"katex";const n={},c=e("p",null,"最好的画技都拿去画刻板印象了。",-1),r=e("p",null,"说准确点：最好的表现资源都被浪费在了异国文化和我国的刻板印象上。火的越来越火，不火的乖乖等死。",-1),l=[c,r];function s(i,m){return t(),o("div",null,l)}const a=_(n,[["render",s],["__file","2022-04-26.html.vue"]]);export{a as default};

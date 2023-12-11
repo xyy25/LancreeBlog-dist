@@ -1,0 +1,1 @@
+import{openBlock as e,createElementBlock as t,createElementVNode as o}from"vue";import{_ as n}from"./app-sHaioI5T.js";import"katex";const _={},c=o("p",null,"这里是测试相册1",-1),r=[c];function l(i,s){return e(),t("div",null,r)}const a=n(_,[["render",l],["__file","index.html.vue"]]);export{a as default};
