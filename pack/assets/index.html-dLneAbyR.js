@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-f83e9870","path":"/tags/naodong/3/","title":"","lang":"zh-CN","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null,"readingTime":{"minutes":0,"words":0}}');export{e as data};
