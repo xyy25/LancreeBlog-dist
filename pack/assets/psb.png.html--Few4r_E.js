@@ -1,1 +1,0 @@
-import{openBlock as t,createElementBlock as o,createElementVNode as e,createTextVNode as n}from"vue";import{_ as r}from"./app-5YuuZBde.js";import"katex";const _={},c=e("p",null,[n("这里是"),e("strong",null,"正文内容")],-1),l=[c];function s(p,m){return t(),o("div",null,l)}const f=r(_,[["render",s],["__file","psb.png.html.vue"]]);export{f as default};
