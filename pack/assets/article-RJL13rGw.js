@@ -1,0 +1,1 @@
+import{A as e}from"./app-_iY-iQ0Z.js";import"vue";import"katex";e.prototype.getArticleInfo=function(t){return this.req.get("/article/get",{params:{id:t}})};e.prototype.addPageView=function(t){return this.req.post("/article/pageview",{data:{id:t}})};e.prototype.getPageView=function(t){return this.req.get("/article/pageview",{params:Array.isArray(t)?{ids:t.join(",")}:{id:t}})};
