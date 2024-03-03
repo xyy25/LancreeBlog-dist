@@ -1,0 +1,1 @@
+import{openBlock as t,createElementBlock as o,createElementVNode as e}from"vue";import{_}from"./app-AZNJceiZ.js";import"katex";const n={},c=e("p",null,"当一种印象在短期内能够大杀四方，却转瞬而逝，我们只能称之为梗。",-1),r=e("p",null,"当一种印象能经得起时间考验，以至于能以代为传递的单位，我们称之为文化。",-1),l=[c,r];function s(i,m){return t(),o("div",null,l)}const a=_(n,[["render",s],["__file","2024-01-23.html.vue"]]);export{a as default};

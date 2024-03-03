@@ -1,1 +1,0 @@
-import{openBlock as e,createElementBlock as t}from"vue";import{_ as r}from"./app-B1TGu5ND.js";import"katex";const o={};function _(c,n){return e(),t("div")}const l=r(o,[["render",_],["__file","404.html.vue"]]);export{l as default};

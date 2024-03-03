@@ -1,0 +1,1 @@
+import{openBlock as e,createElementBlock as t,createElementVNode as n}from"vue";import{_ as o}from"./app-AZNJceiZ.js";import"katex";const _={},c=n("p",null,"与家永远走失的少女，柚子做成的灯笼，是对家乡的留恋。",-1),r=[c];function l(a,i){return e(),t("div",null,r)}const f=o(_,[["render",l],["__file","Shatian.png.html.vue"]]);export{f as default};
