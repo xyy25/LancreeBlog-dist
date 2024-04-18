@@ -1,1 +1,0 @@
-import{openBlock as e,createElementBlock as t,createElementVNode as n}from"vue";import{_ as o}from"./app-W7xsE0-F.js";import"katex";const _={},c=n("p",null,"巫医世家出身的舞女，或许有什么执念让她喜欢用舞蹈来说话。",-1),r=[c];function i(l,s){return e(),t("div",null,r)}const f=o(_,[["render",i],["__file","Tianjiu.png.html.vue"]]);export{f as default};

@@ -1,1 +1,0 @@
-import{openBlock as e,createElementBlock as t,createElementVNode as o}from"vue";import{_ as n}from"./app-W7xsE0-F.js";import"katex";const _={},c=o("p",null,"这是存放OC世界观角色三视图立绘的相册。",-1),r=[c];function l(i,s){return e(),t("div",null,r)}const a=n(_,[["render",l],["__file","index.html.vue"]]);export{a as default};

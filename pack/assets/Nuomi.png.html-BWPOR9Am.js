@@ -1,0 +1,1 @@
+import{openBlock as t,createElementBlock as o,createElementVNode as e}from"vue";import{_ as n}from"./app-jTPvKukB.js";import"katex";const _={},c=e("p",null,[e("em",null,"“如果要配一首角色曲的话，我想只有KAWAII BASS风的山歌好比春江水适合她”")],-1),r=[c];function l(m,i){return t(),o("div",null,r)}const f=n(_,[["render",l],["__file","Nuomi.png.html.vue"]]);export{f as default};
