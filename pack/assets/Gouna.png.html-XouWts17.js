@@ -1,0 +1,1 @@
+import{openBlock as e,createElementBlock as t,createElementVNode as o}from"vue";import{_ as n}from"./app-jQsD80XN.js";import"katex";const _={},c=o("p",null,"在那板规模庞大的罗氏家族，世代研发百药不治的毒蛊巫术，枸那便是其中技术卓越的罗家大小姐。",-1),r=[c];function l(s,m){return e(),t("div",null,r)}const f=n(_,[["render",l],["__file","Gouna.png.html.vue"]]);export{f as default};

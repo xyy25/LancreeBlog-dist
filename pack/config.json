@@ -1,0 +1,34 @@
+{
+    "animatedBannerText": [
+        "江作青罗带 山如碧玉簪"
+    ],
+    "bgmChapters": [{
+        "title": "繁星的舞蹈",
+        "start": "Another World - α·Pav",
+        "end": "Storytelling (Instrumental) - World's End Girlfriend"
+    }, {
+        "title": "异界的片隅",
+        "start": "Beauteous Rain - Ciela",
+        "end": "山眠 - 饭碗的彼岸"
+    }, {
+        "title": "花朝赶歌圩",
+        "start": "沃土新芽的曲调 Melody of Bright New Buds - HOYO-MiX",
+        "end": "Ephemeral Memories（Without Drum) - MoreanP"
+    }, {
+        "title": "绮夏梦叮咛",
+        "start": "日陰と帽子と風鈴と - Foxtail-Grass Studio",
+        "end": "花火が瞬く夜に - 羽肿"
+    }, {
+        "title": "秋思叶归根",
+        "start": "安谧的海原 Tranquil Plains - HOYO-MiX",
+        "end": "Merry Christmas Mr. Lawrence - 坂本龍一 / Jaques Morelenbaum / Judy Kang"
+    }, {
+        "title": "旅人的柳暗花明",
+        "start": "孤星的憧憬 Lonely Star's Longing - HOYO-MiX",
+        "end": "異世界・闇_Part.2 - 増田俊郎"
+    }, {
+        "title": "八桂世界的歌姬",
+        "start": "铜鼓声声 - 樊璐嘉",
+        "end": "山歌好比春江水 - 斯琴格日乐"
+    }]
+}
